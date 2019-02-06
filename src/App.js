@@ -15,36 +15,7 @@ state={
 
   }
 
-  /*changeName=(event)=>
-  {
-
-      const name=this.state.name;
-      this.setState({
-        name:event.target.value
-      })
-
-  }
-
-changeAge=(event)=>
-{
- const age=this.state.age;
-
-this.setState({
-    age:event.target.value
-})
-
-
-}
-
-changeCity=(event)=>
-{
-
- const city=this.state.city;
-  this.setState({
-
-    city:event.target.value
-  })
-}*/
+ 
 
 onKeyHandle=(target,e)=>
   {
